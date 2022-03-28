@@ -22,3 +22,5 @@ We use JavaScript, Plotly, and D3.js, create a gauge chart that displays the wee
 
 ### Delieverable 4
 With our knowledge of HTML and Bootstrap, customize the webpage for your dashboard.
+
+![Capture](https://user-images.githubusercontent.com/95719819/160317851-787214b7-57af-4ec5-9bcd-85fdc7189f7c.PNG)
